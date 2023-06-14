@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Suraj Poddar",
+    "uId": 1234,
+    "password": "suraj",
+    "isDean": false
+  },
+  {
+    "name": "Ankit Kumar",
+    "uId": 1235,
+    "password": "ankit",
+    "isDean": false
+  },
+  {
+    "name": "Amulya Ratan",
+    "uId": 2345,
+    "password": "ratan",
+    "isDean": true
+  }
+]
